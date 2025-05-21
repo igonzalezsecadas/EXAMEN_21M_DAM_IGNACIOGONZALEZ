@@ -8,5 +8,8 @@ public class Main {
 		System.out.println("Buenos días Ceinmark, soy Marta Gomez.");
 		System.out.println("Introduce un numero para saber si es primo o no: ");
 		int num = Integer.parseInt(in.nextLine());
+		
+		System.out.println("El número no es primo");
+		System.out.println("Los divisores del número son: ");
 	}
 }
